@@ -31,7 +31,7 @@ Aplicación de escritorio desarrollada en C# con Windows Forms para gestión de 
 - ✅ Consultas SQL con JOIN
 - ✅ Formato de datos (fechas y montos)
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Lenguaje:** C# (.NET 8.0)
 - **Framework:** Windows Forms
 - **Base de Datos:** MySQL
